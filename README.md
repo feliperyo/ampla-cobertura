@@ -14,5 +14,5 @@
 <br>
 <br>
 <div align="center">
-<a href="https://feliperyo.github.io/positive/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
+<a href="https://feliperyo.github.io/positive/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
 </div>
