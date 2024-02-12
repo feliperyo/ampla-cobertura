@@ -43,7 +43,7 @@ main {
 }
 
 .text {
-    width: 493px;
+    width: 600px;
     margin-left: 85px;
     display: inline-block
 }
@@ -94,6 +94,7 @@ p {
     }
 
     .img-logo {
+        height: 100vh;
         position: absolute;
         bottom: 0;
         margin: auto;
@@ -103,7 +104,7 @@ p {
 
     img {
         position: absolute;
-        bottom: 100px;
+        top: 60%;
         left: 25vw;
         width: 400px;
         height: auto;
@@ -125,6 +126,7 @@ p {
     }
 
     .text {
+        width: 600px;
         padding-top: 100px;
         text-align: center;
         margin-top: 200px;
@@ -134,14 +136,17 @@ p {
 
 
     }
+    p{ width: 600px;
+        align-items: center;
+    }
 
 }
 
 @media screen and (max-width: 600px) {
 
-header{
-    left: 100px;
-}
+    header {
+        left: 100px;
+    }
 
     .button-header {
         margin-left: 100px;
@@ -156,32 +161,43 @@ header{
         min-width: 200;
         margin: 100px 0px 0px 35px;
     }
+    .menu-main{
+        margin-right: 12%;
+    }
 
     h1 {
-        font-size: 30px;
-        width: 278px;
+        font-size: 35px;
+        width: 400px;
         height: 60px;
-        line-height: 30px;
+        line-height: 50px;
         text-align: center;
-        margin: 0px auto;
+        margin: 0px auto 30px 12%;
         display: block;
         padding: 0px;
     }
 
-    p{
+    p {
         font-size: 18px;
         font-weight: 400;
         line-height: 33px;
-        width: 304px;
+        width: 400px;
         height: 165px;
-        margin: 30px auto;
+        margin: 80px auto 40px 12%;
         display: block;
     }
-    .img-logo{
-      margin-bottom: -30%;
-      margin-left: -20px;
+
+  
+
+    .img-logo {
+        width: 100vw;
+        align-items: center;
     }
-   
+
+    img{
+        top: 90%;
+        left: 28%;
+    }
+
 
 
 }
