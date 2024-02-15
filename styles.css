@@ -104,9 +104,9 @@ p {
 
     img {
         position: absolute;
-        top: 60%;
-        left: 25vw;
-        width: 400px;
+        top: 50%;
+        left: 12vw;
+        width: 600px;
         height: auto;
 
     }
@@ -145,24 +145,24 @@ p {
 @media screen and (max-width: 600px) {
 
     header {
-        left: 100px;
+        left: 110px;
     }
 
     .button-header {
-        margin-left: 100px;
+        margin-left: 150px;
         width: 25%;
         height: 5%;
         right: none;
-        left: 75%;
+        left: 85%;
     }
 
     main {
         max-width: 600;
         min-width: 200;
-        margin: 100px 0px 0px 35px;
+        margin: 100px 0px 0px 40px;
     }
     .menu-main{
-        margin-right: 12%;
+        margin-right: 5%;
     }
 
     h1 {
@@ -171,7 +171,7 @@ p {
         height: 60px;
         line-height: 50px;
         text-align: center;
-        margin: 0px auto 30px 12%;
+        margin: 0px auto 30px 14%;
         display: block;
         padding: 0px;
     }
@@ -196,6 +196,9 @@ p {
     img{
         top: 90%;
         left: 28%;
+        width: 450px;
+        top: 75%;
+        left: 23%;
     }
 
 
