@@ -5,11 +5,7 @@
 <br>
 <br>
 <div align="center">
-  <img width="350px" src="https://github.com/feliperyo/ampla-cobertura/blob/master/img/mobile%20e%20tablet%20pt-br.png?raw=true" /> 
-</div>
-
-<div align="center">
-  <img width="600px" src="https://github.com/feliperyo/ampla-cobertura/blob/master/img/desktop%20pt-br.png?raw=true"/>
+  <img width="700px" src="https://github.com/feliperyo/ampla-cobertura/blob/master/img/mockup.png?raw=true"/>
 </div>
 <br>
 <br>
