@@ -5,7 +5,7 @@
 <br>
 <br>
 <div align="center">
-  <img width="700px" src="https://github.com/feliperyo/ampla-cobertura/blob/master/img/mockup.png?raw=true"/>
+  <img width="800px" src="https://github.com/feliperyo/ampla-cobertura/blob/master/img/mockup.png?raw=true"/>
 </div>
 <br>
 <br>
